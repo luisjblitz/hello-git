@@ -1,3 +1,3 @@
 <?php
-echo "Login . \n";
+echo "Login v2. \n";
 ?>
